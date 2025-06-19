@@ -94,11 +94,9 @@ Olist is an e-commerce platform that connects small businesses to major marketpl
 
 ⚡ _Deployed with Streamlit_
 
-> 📌 _[Include a link here if deployed]_  
-> _e.g., [View Dashboard](https://olist-sales-funnel.streamlit.app)_
-
-![Screenshot](images/barplot.png)  
-*Conversion rate and lead source breakdown example*
+> 📌 View Dashboard
+>
+> _([https://olist-sales-funnel.streamlit.app](https://portfolytics-project2-6bhxnjq7dthwsgue5xgxvu.streamlit.app/))_
 
 ---
 
